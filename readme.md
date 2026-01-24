@@ -42,6 +42,24 @@ The project demonstrates practical skills required for a Data Analyst role, incl
 3. Power BI Desktop – Data modeling, DAX, and dashboard create<br>
 4. chatgpt
 
+## 📸 Dashboard Snapshot
+### 🟦 **1. Main Dashboard (1-Page Overview)**
+This page provides a complete one-page summary of the overall customer and sales performance.  
+It includes key KPIs, demographic overview, spending trends, and category-wise analysis. 
+
+![Main Dashboard](Executive_Analysis.png)
+
+
+### 🟩 **2. Customer Insights**
+This page focuses on understanding customer demographics and behaviour patterns. 
+
+![Customer Insights](dashboard_snapshot/customer_insight.png)
+
+
+### 🟧 **3. Payment Details**
+This page shows payment preferences and transaction patterns. 
+
+![payment details](dashboard_snapshot/payment_details.png)
 
 
   
