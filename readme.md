@@ -13,7 +13,7 @@ This project is a complete Supply Chain Analysis built as a client project using
 The project demonstrates practical skills required for a Data Analyst role, including data extraction from a database, data cleaning, analysis, visualization, and business storytelling.
 
 
-<br>
+
 ## 📌Project Objectives
 *  Perform a diagnostic analysis of supply chain operations<br>
 
@@ -24,8 +24,8 @@ The project demonstrates practical skills required for a Data Analyst role, incl
 *  Build executive‑level dashboards for decision‑making<br>
 
 *  Present insights in a clear, business‑friendly manner<br>
-<br>
- ## Dataset Description
+
+## Dataset Description
 
 * The dataset contains detailed supply chain information, including:
 
@@ -39,14 +39,15 @@ The project demonstrates practical skills required for a Data Analyst role, incl
 
 * Location‑based metrics (Supplier location, routes, lead times)
 
-<br>
+
 ## 🛠 Tools & Technologies Used
 
 1 .Microsoft Excel – Initial data understanding & validation<br>
 2. Python (Basic) – Data cleaning, preprocessing, and exploratory analysis<br>
 3. Power BI Desktop – Data modeling, DAX, and dashboard create<br>
 4. chatgpt
-<br>
+
+
 ## 📸 Dashboard Snapshot
 ### 🟦 **1. Executive Analysis (1-Page Overview)**
 * This dashboard provides a high-level overview of overall supply chain performance for top management.<br>
