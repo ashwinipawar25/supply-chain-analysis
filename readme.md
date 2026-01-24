@@ -59,7 +59,7 @@ This page focuses on understanding customer demographics and behaviour patterns.
 ### 🟧 **3. Payment Details**
 This page shows payment preferences and transaction patterns. 
 
-![payment details](dashboard_snapshot/payment_details.png)
+![payment details](Supplier_Management_Dashboard.png)
 
 
   
