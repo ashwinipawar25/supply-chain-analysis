@@ -1,5 +1,9 @@
 # 📦 Supply Chain Analysis 
 
+## 👀 Dashboard Preview
+![Main Dashboard](dashboard_snapshot/dashboard.png)
+
+
 ## 🎯 Project Overview
 
 This project is a complete Supply Chain Analysis built as a client project using Python, Power BI, and Excel. The objective is to analyze end‑to‑end supply chain performance and present insights through interactive dashboards and a comparison report across different product types.
