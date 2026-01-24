@@ -43,23 +43,23 @@ The project demonstrates practical skills required for a Data Analyst role, incl
 4. chatgpt
 
 ## 📸 Dashboard Snapshot
-### 🟦 **1. Main Dashboard (1-Page Overview)**
+### 🟦 **1. Executive Analysis (1-Page Overview)**
 This page provides a complete one-page summary of the overall customer and sales performance.  
 It includes key KPIs, demographic overview, spending trends, and category-wise analysis. 
 
 ![Main Dashboard](Executive_Analysis.png)
 
 
-### 🟩 **2. Customer Insights**
+### 🟩 **2. Logistic & Shipping (2-Page Overview)**
 This page focuses on understanding customer demographics and behaviour patterns. 
 
 ![Customer Insights](Logistic_&_Shipping.png)
 
 
-### 🟧 **3. Payment Details**
+### 🟧 **3. Supplier Management Dashboard (3-Page Overview)**
 This page shows payment preferences and transaction patterns. 
 
-![payment details](Supplier_Management_Dashboard.png)
+![supplier_details](Supplier_Management_Dashboard.png)
 
 
   
