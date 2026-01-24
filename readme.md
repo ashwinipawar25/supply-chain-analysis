@@ -44,20 +44,22 @@ The project demonstrates practical skills required for a Data Analyst role, incl
 
 ## 📸 Dashboard Snapshot
 ### 🟦 **1. Executive Analysis (1-Page Overview)**
-This page provides a complete one-page summary of the overall customer and sales performance.  
-It includes key KPIs, demographic overview, spending trends, and category-wise analysis. 
-
+* This dashboard provides a high-level overview of overall supply chain performance for top management.<br>
+* Helps management quickly understand which products and locations are performing well and where costs or risks are high.<br>
+ 
 ![Main Dashboard](Executive_Analysis.png)
 
 
 ### 🟩 **2. Logistic & Shipping (2-Page Overview)**
-This page focuses on understanding customer demographics and behaviour patterns. 
+* This dashboard analyzes logistics efficiency and shipping performance across different carriers and transportation modes.<br>
+* Supports cost optimization and helps identify delays or inefficient shipping methods.<br>
 
 ![Customer Insights](Logistic_&_Shipping.png)
 
 
 ### 🟧 **3. Supplier Management Dashboard (3-Page Overview)**
-This page shows payment preferences and transaction patterns. 
+* This dashboard evaluates supplier performance and risk to improve sourcing decisions.<br>
+* Helps identify high-risk suppliers, reduce defects, and choose reliable suppliers for long-term partnerships.<br>
 
 ![supplier_details](Supplier_Management_Dashboard.png)
 
