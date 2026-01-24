@@ -114,4 +114,12 @@ Connectors have the highest manufacturing cost, followed by Sensors.
 
 Suppliers with higher defect rates also show higher manufacturing costs, affecting profitability.
 
+## 📌 Conclusion
+
+This project showcases end‑to‑end data analytics skills, from raw database extraction to executive‑level insights. It reflects real‑world supply chain challenges and demonstrates the ability to support data‑driven decision making.
+
+## 👩‍💻 Author
+
+Ashwini Pawar
+Aspiring Data Analyst
   
