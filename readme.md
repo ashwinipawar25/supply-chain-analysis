@@ -35,4 +35,13 @@ The project demonstrates practical skills required for a Data Analyst role, incl
 
 * Location‑based metrics (Supplier location, routes, lead times)
 
+## 🛠 Tools & Technologies Used
+
+1 .Microsoft Excel – Initial data understanding & validation<br>
+2. Python (Basic) – Data cleaning, preprocessing, and exploratory analysis<br>
+3. Power BI Desktop – Data modeling, DAX, and dashboard create<br>
+4. chatgpt
+
+
+
   
