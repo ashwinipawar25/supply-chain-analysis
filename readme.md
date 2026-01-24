@@ -1,7 +1,7 @@
 # 📦 Supply Chain Analysis 
 
 ## 👀 Dashboard Preview
-![Main Dashboard](Executive Analysis.png)
+![Main Dashboard](Executive_Analysis.png)
 
 
 ## 🎯 Project Overview
