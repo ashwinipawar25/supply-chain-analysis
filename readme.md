@@ -120,6 +120,6 @@ This project showcases end‑to‑end data analytics skills, from raw database e
 
 ## 👩‍💻 Author
 
-Ashwini Pawar
+Ashwini Pawar<br>
 Aspiring Data Analyst
   
